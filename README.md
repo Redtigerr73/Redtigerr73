@@ -32,15 +32,6 @@ I’m always happy to join forces on interesting **.NET** projects—especially 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=default" alt="GitHub stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=<your-username>&theme=default" alt="GitHub Streak" width="49%"/>
-</p>
-
----
-
 <details>
   <summary>📜 Fun Facts</summary>
 
