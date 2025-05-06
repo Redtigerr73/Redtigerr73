@@ -31,11 +31,3 @@ I’m always happy to join forces on interesting **.NET** projects—especially 
 - GitHub issues & discussions (preferred)  
 
 ---
-
-<details>
-  <summary>📜 Fun Facts</summary>
-
-  - I speak **Arabic**, **English** and a little **French**.  
-  - I once automated an entire monthly KPI report with just **Power Query** + **DAX**.  
-  - My favourite productivity hack is the **Pomodoro Technique** ⏱️.
-</details>
